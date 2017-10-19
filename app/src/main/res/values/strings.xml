@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirebaseTutorial</string>
+
+    <string name="str_edt_name">name</string>
+    <string name="str_edt_email">email</string>
+
+    <string name="str_btn_add">add</string>
+    <string name="str_btn_update">update</string>
+</resources>
